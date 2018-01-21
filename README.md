@@ -1,7 +1,3 @@
 # my-website
 
-CHANGES MADE FROM EXAMPLE BRANCH
-
-YET ANOTHER EDIT
-
-Updating locally, then remotely
+Updates made before rebasing.
